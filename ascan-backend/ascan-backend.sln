@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ascan-backend", "ascan-backend\ascan-backend.csproj", "{857B98FF-CAE5-48D1-8C85-A58680CE7DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857B98FF-CAE5-48D1-8C85-A58680CE7DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857B98FF-CAE5-48D1-8C85-A58680CE7DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857B98FF-CAE5-48D1-8C85-A58680CE7DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857B98FF-CAE5-48D1-8C85-A58680CE7DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023351E4-1F77-4D5C-AF21-4DABE0CC6A2F}
+	EndGlobalSection
+EndGlobal
