@@ -1,8 +1,12 @@
+using ascan_backend.Services;
+using ascan_backend.Services.Implementations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IPersonService, PersonServiceImplemetation>();
 
 var app = builder.Build();
 
